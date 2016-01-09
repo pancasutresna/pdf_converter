@@ -4,4 +4,8 @@ supported file types: *.doc, *.docx, *.ppt, *.pptx, *.xls, *.xlsx
 the library comes from : https://officetopdf.codeplex.com/.
 Based on the description, The tool requires an installation of Office 2007, 2010 or 2013 to work.
 
+## How to use
+Clone the repository, copy files to convert into it then run **_CLICK_TO_CONVERT_TO_PDF.bat** file
+
+
 Thanks,
